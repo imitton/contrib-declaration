@@ -1,0 +1,11 @@
+{
+  "name": "CRIF",
+  "documents": {
+    "Business Privacy Policy": {
+      "fetch": "https://www.crif.it/cookie-policy/",
+      "select": [
+        ".col-sm-8"
+      ]
+    }
+  }
+}
