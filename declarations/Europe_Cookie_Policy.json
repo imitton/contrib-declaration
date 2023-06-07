@@ -1,0 +1,12 @@
+{
+  "name": "Europe_Cookie_Policy",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://commission.europa.eu/cookies-policy_en",
+      "select": [
+        ".ecl-col-l-9"
+      ]
+    }
+  }
+}
+
